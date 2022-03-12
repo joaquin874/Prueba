@@ -12,4 +12,8 @@ String valoradar;
     private static void visordemensaje(String valor) {
         System.out.println("Ingrese un valor");
     }
+
+    public void mostrarnumero(){
+
+    }
 }
