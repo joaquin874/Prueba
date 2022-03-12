@@ -16,4 +16,8 @@ String valoradar;
     public void mostrarnumero(){
 
     }
+
+    public void mostrarpalabra(){
+        
+    }
 }
