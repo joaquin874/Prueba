@@ -18,6 +18,9 @@ String valoradar;
     }
 
     public void mostrarpalabra(){
-        
+
+    }
+    public void mensajeNuevo(){
+        System.out.println("Esto va en el branch de prueba");
     }
 }
